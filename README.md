@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Frank Dev ⚡️
 
-![https://github.com/frankmdev](Blue Modern Lets Do This LinkedIn Banner.png)
+![https://github.com/frankmdev](https://github.com/FrankmDev/FrankmDev/blob/main/Blue%20Modern%20Lets%20Do%20This%20LinkedIn%20Banner.png)
 
 ### Junior Frontend Developer
 
