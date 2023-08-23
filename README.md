@@ -21,3 +21,11 @@
 ¡Hablemos!
 
 
+# Mis Redes Sociales
+
+A continuación, encontrarás enlaces a mis perfiles en diferentes redes sociales:
+
+- ![Logo de Gmail](https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png) [Gmail](frankmmarindev@gmail.com
+)
+- ![Logo de Twitter](URL_DE_LOGO_TWITTER) [Twitter](URL_DE_TWITTER)
+- ![Logo de LinkedIn](URL_DE_LOGO_LINKEDIN) [LinkedIn](URL_DE_LINKEDIN)
