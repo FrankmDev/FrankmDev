@@ -2,7 +2,7 @@
 
 ![https://github.com/frankmdev](https://www.canva.com/design/DAFrd3KZo18/view)
 
-Frontend Developer
+#Junior Frontend Developer
 
 ## Habilidades
 
