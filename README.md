@@ -1,8 +1,8 @@
-# ¡Hola! Soy Frank Dev ⚡️
+## ¡Hola! Soy Frank Dev ⚡️
 
 ![https://github.com/frankmdev](https://www.canva.com/design/DAFrd3KZo18/view)
 
-# Junior Frontend Developer
+### Junior Frontend Developer
 
 ## Habilidades
 
