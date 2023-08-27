@@ -1,4 +1,4 @@
-## ¡Hola! Soy Frank Dev ⚡️
+# ¡Hola! Soy Frank Dev ⚡️
 
 ### Junior Frontend Developer
 ![https://github.com/frankmdev](https://github.com/FrankmDev/FrankmDev/blob/main/Blue%20Modern%20Lets%20Do%20This%20LinkedIn%20Banner.png)
@@ -8,8 +8,6 @@
 - HTML
 - CSS
 - Javascript
-- React
-- Tailwind
 
 
 ## Contacto
