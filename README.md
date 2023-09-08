@@ -56,6 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FrankmDev/FrankmDev/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/FrankmDev/FrankmDev/blob/output/github-contribution-grid-snake.svg)
 
 ###
