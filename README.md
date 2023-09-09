@@ -2,17 +2,11 @@
 
 ###
 
-<br clear="both">
-
-
-
 ![https://github.com/frankmdev](https://github.com/FrankmDev/FrankmDev/blob/main/Frank%20Dev%20Banner.png)
 
-### { About me }
-I am a passionate self-taught web developer looking for my first job opportunity in the IT sector. Currently, I am advancing my education by pursuing the Higher Degree in Web Application Development (DAW) and have accumulated valuable experience through various certificate courses and personal projects.
-While I have not had the opportunity to apply my experience in the technology sector professionally, I am eager to contribute my skills and knowledge in a work environment. My determination, creativity and commitment are assets that motivate me to face new challenges and continually learn.
-
-###
+<h2 align="center">About me</h2>
+<p align="center">
+I am a passionate self-taught web developer looking for my first job opportunity in the IT sector. Currently, I am advancing my education by pursuing the Higher Degree in Web Application Development (DAW) and have accumulated valuable experience through various certificate courses and personal projects. </p>
 
 <h2 align="center">Social Media</h2>
 
