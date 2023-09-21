@@ -6,7 +6,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-I am a passionate self-taught web developer looking for my first job opportunity in the IT sector. Currently, I am advancing my education by pursuing the Higher Degree in Web Application Development (DAW) and have accumulated valuable experience through various certificate courses and personal projects. </p>
+Passionate self-taught web developer. Currently, advancing my education by pursuing the Higher Degree in Web Application Development (DAW) and have accumulated valuable experience through various certificate courses and personal projects. </p>
 
 <h2 align="center">Social Media</h2>
 
