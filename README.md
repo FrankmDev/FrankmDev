@@ -2,7 +2,7 @@
 
 ###
 
-![https://github.com/frankmdev](https://github.com/FrankmDev/FrankmDev/blob/main/Frank%20Dev%20Banner.png)
+![https://github.com/frankmdev](https://github.com/FrankmDev/FrankmDev/blob/b02bd3c22c6b0b220afacd375d0a7cebcef98bf8/Frank%20Dev%20Banner.png)
 
 <h2 align="center">About me</h2>
 <p align="center">
