@@ -1,4 +1,4 @@
-<h1 align="left"> Hi, I'm Frank! ⚡️</h1>
+<h1 align="left"> Hi there, I'm Frank! ⚡️</h1>
 
 ###
 
