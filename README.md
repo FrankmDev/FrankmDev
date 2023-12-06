@@ -28,6 +28,7 @@ Passionate self-taught web developer. Currently, advancing my education by pursu
 
 <h2 align="center">Tech Stack</h2>
 
+
 ###
 
 <div align="center">
@@ -39,11 +40,13 @@ Passionate self-taught web developer. Currently, advancing my education by pursu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src='https://astro.build/assets/press/astro-icon-light-gradient.svg' height='40' alt='astro logo''/>
+  <img width='12'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-
+ 
   <br clear='both'>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
