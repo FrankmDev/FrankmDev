@@ -6,7 +6,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-Passionate self-taught web developer. Currently, advancing my education by pursuing the Higher Degree in Web Application Development (DAW) and have accumulated valuable experience through various certificate courses and personal projects. </p>
+Passionate self-taught Frontend Developer. Currently, advancing my education by pursuing the Higher Degree in Web Application Development (DAW) and have accumulated valuable experience through various certificate courses and personal projects. </p>
 
 <h2 align="center">Social Media</h2>
 
@@ -23,6 +23,7 @@ Passionate self-taught web developer. Currently, advancing my education by pursu
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
 
 ###
 
